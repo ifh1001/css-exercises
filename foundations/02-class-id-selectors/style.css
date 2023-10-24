@@ -1,0 +1,19 @@
+.impares{
+    background-color: rgb(240, 173, 157);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#dos{
+    color: blue;
+    font-size: 36px;
+}
+
+.tam24{
+    font-size: 24px;
+}
+
+#cuatro{
+    background-color: rgb(124, 192, 124);
+    font-size: 24px;
+    font-weight: bold;
+}
